@@ -1,0 +1,16 @@
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\quiz ai.csprojAssemblyReference.cache
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\quiz ai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\quiz ai.AssemblyInfoInputs.cache
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\quiz ai.AssemblyInfo.cs
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\quiz ai.csproj.CoreCompileInputs.cache
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\bin\Debug\net5.0\quiz ai.exe
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\bin\Debug\net5.0\quiz ai.deps.json
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\bin\Debug\net5.0\quiz ai.runtimeconfig.json
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\bin\Debug\net5.0\quiz ai.runtimeconfig.dev.json
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\bin\Debug\net5.0\quiz ai.dll
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\bin\Debug\net5.0\ref\quiz ai.dll
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\bin\Debug\net5.0\quiz ai.pdb
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\quiz ai.dll
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\ref\quiz ai.dll
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\quiz ai.pdb
+C:\Users\noahw\OneDrive\Desktop\projects\quiz ai\obj\Debug\net5.0\quiz ai.genruntimeconfig.cache
